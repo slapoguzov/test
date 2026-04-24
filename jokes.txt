@@ -4,3 +4,4 @@
 4. Why was the JavaScript developer sad? Because they did not Node how to Express themselves.
 5. I asked my IDE for relationship advice; it said, "Try a stable release."
 6. Why did the database admin break up with SQL? Too many unresolved joins.
+7. Why do Python developers wear glasses? Because they cannot C.
