@@ -6,3 +6,4 @@
 6. Why did the database admin break up with SQL? Too many unresolved joins.
 7. Why do Python developers wear glasses? Because they cannot C.
 8. My code does not have bugs; it develops random features on its own.
+9. I would tell you a UDP joke, but you might not get it.
