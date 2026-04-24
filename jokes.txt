@@ -1,3 +1,4 @@
 1. Why do programmers prefer dark mode? Because light attracts bugs.
 2. I told my computer I needed a break, and now it won’t stop sending me KitKat ads.
 3. Why did the function return early? It had a date with a callback.
+4. Why was the JavaScript developer sad? Because they did not Node how to Express themselves.
